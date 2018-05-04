@@ -68,5 +68,3 @@
 //	else if (resultScore < 50)
 //		printf("F\n");
 //}
-
-//문제4 위 문제를 조건 연산자로 시도 
